@@ -1,6 +1,6 @@
 name: xcitiman
 favicon: null
-layout_spectrum: 0.0897
+layout_spectrum: 0.88762
 typography_spectrum: 0.16228
 cta:
   domain: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
+    - '#040000'
+    - '#ff6d00'
+    - '#be9a8b'
+    - '#5f5e71'
+    - '#efedee'
   brandStrength: 0.7670793600846082
   lightness: 0.984791808295995
-  saturation: 0.22649347106926143
+  saturation: 0.875
   rhythmicContrast: 0.8570382434409112
 purpose: []
